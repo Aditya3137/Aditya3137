@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya3137&label=Profile%20views&color=0e75b6&style=flat" alt="aditya3137" /> </p>
 
-- 🔭 I’m currently working on [Notes Hub](https://its.adityatechlab.freewebhostmost.com/)
+- 🔭 I’m currently working on [Notes Hub](#)
 
 - 🌱 I’m currently learning **C,python,frontend developing**
 
